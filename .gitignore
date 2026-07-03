@@ -15,7 +15,6 @@ venv/
 data/
 checkpoints/
 runs/
-logs/
 wandb/
 
 # macOS
