@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Data / checkpoints
+*.ckpt
+*.pt
+*.pth
+*.bin
+data/
+checkpoints/
+runs/
+logs/
+wandb/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
